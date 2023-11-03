@@ -1,0 +1,15 @@
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\bin\Debug\net6.0\algoritmo.exe
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\bin\Debug\net6.0\algoritmo.deps.json
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\bin\Debug\net6.0\algoritmo.runtimeconfig.json
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\bin\Debug\net6.0\algoritmo.dll
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\bin\Debug\net6.0\algoritmo.pdb
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.csproj.AssemblyReference.cache
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.AssemblyInfoInputs.cache
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.AssemblyInfo.cs
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.csproj.CoreCompileInputs.cache
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.dll
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\refint\algoritmo.dll
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.pdb
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\algoritmo.genruntimeconfig.cache
+D:\Estudio\CUMBRE\7.- Programación 2\algoritmo\obj\Debug\net6.0\ref\algoritmo.dll
